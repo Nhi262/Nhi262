@@ -6,7 +6,6 @@
 ### 📬 How to reach me:
 
 [![LinkedIn](http://linkedin.com/in/vo-nhi-136995219)
-[![LinkedIn]()
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)](https://github.com/NhatTran-97)
 [![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube)](https://www.youtube.com/@NhatTran-b8g)
 
